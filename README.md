@@ -1,0 +1,2 @@
+# ScorePredictionFromHours
+Supervised machine learning
